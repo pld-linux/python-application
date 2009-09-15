@@ -1,12 +1,12 @@
 %define 	module	application
 Summary:	Basic building blocks for python applications
 Name:		python-%{module}
-Version:	1.1.0
+Version:	1.1.5
 Release:	1
 License:	LGPL
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/p/python-application/%{name}-%{version}.tar.gz
-# Source0-md5:	29781bb309999e46faed2f8a242b88cd
+# Source0-md5:	d43399becc6b2850a2ea80a34375781b
 URL:		http://pypi.python.org/pypi/python-application
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
