@@ -10,7 +10,7 @@ Source0:	http://pypi.python.org/packages/source/p/python-application/%{name}-%{v
 URL:		http://pypi.python.org/pypi/python-application
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
