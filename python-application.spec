@@ -2,7 +2,7 @@
 Summary:	Basic building blocks for python applications
 Name:		python-%{module}
 Version:	1.3.1
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/p/python-application/%{name}-%{version}.tar.gz
